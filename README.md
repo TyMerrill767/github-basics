@@ -1,5 +1,7 @@
-Github Basics
+#Github Basics
 
 Remote repo to help me test out my Github skills!
 
-[I'm learing this on lynda.com!](http://www.lynda.com)
+### This really needs another header
+
+[I'm learning this on lynda.com!](http://www.lynda.com)
